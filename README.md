@@ -1,4 +1,4 @@
-# drawingai
+# Paint-to-Image-Translation
 
 
 ### Demo
